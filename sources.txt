@@ -1,0 +1,10 @@
+OpenGameArt
+  opengameart.org
+  opengameart.org/content/basketball-0
+  opengameart.org/content/bunny-rabbit-lpc-style-for-pixelfarm
+  opengameart.org/content/owl-and-raven-sprites
+  opengameart.org/content/giraffe
+  opengameart.org/content/kangaroo-game-sprites
+  opengameart.org/content/fantasy-monster-animal-sprites
+
+Some artwork has been modified by me.
